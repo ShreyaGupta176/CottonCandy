@@ -96,6 +96,9 @@ h3{
         transform:rotate(0);
         width:40%;
     }
+    .navbar-item{
+        text-align: left;
+    }
 }
 #cta{
     background-color:#7900FF;
