@@ -97,7 +97,7 @@ h3{
         width:40%;
     }
     .navbar-item{
-        text-align: left;
+        text-align: left !important;
     }
 }
 #cta{
